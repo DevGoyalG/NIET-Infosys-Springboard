@@ -27,6 +27,24 @@ What should be inserted at Line 1 to invoke another controller method with URL h
 - [ ] Address response = restTemplate.getForEntity(url, phoneno);
 - [ ] ResponseEntity<Address> response = restTemplate.getForObject(url, Address.class, phoneno);
 
+Q8 of 20
+
+Which class in Spring security is used to hash passwords?
+
+- [x] ***PasswordEncoder***
+- [ ] PasswordHasher
+- [ ] HashEncoder
+- [ ] SecureEncoder
+
+Q9 of 20
+
+Which of the below are ways of realizing and implementing SOA?
+
+- [x] ***WebServices***
+- [ ] Lisp
+- [ ] Perl
+- [x] ***Jini***
+
 Q12 of 20
 
 Which of the following statements are true regarding Matrix variables? (Choose any 2 options)
