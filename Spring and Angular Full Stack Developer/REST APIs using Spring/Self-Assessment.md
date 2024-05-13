@@ -45,6 +45,34 @@ Which of the below are ways of realizing and implementing SOA?
 - [ ] Perl
 - [x] ***Jini***
 
+Q11 of 20
+
+Have a look at the following controller.
+
+@RestController
+@RequestMapping("/bikes")
+public class BikeController {
+    //Line 1
+    public List<BikeDTO> getBikeDetails() {
+        //List of bikes get returned
+    }
+    // Line 2
+    public string createBike (BikeDTO bike) {
+        //bike got created
+    }
+}
+
+Which of the below options has statements that can be inserted at Line 1, Line 2 for proper working of the controller?
+
+- [ ] Line 1 - @RequestMapping(value = "/detail")
+Line 2- @PutMapping("/create")
+- [ ] Line 1 - @GetMapping("/detail")
+Line 2- @RequestMapping(value = "/create", method = "Post")
+- [x] ***Line 1 - @GetMapping("/detail")
+Line 2 - @PostMapping()***
+- [ ] Line 1 - @RequestMapping(value = "/detail")
+Line 2- @PostMapping("/create")
+
 Q12 of 20
 
 Which of the following statements are true regarding Matrix variables? (Choose any 2 options)
