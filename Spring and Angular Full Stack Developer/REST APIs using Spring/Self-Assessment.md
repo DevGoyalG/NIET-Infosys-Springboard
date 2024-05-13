@@ -1,3 +1,22 @@
+Q1 of 20
+
+What is the by default URL for the Spring Security login page?
+
+- [x] ***/login***
+- [ ] /signin
+- [ ] /auth
+- [ ] /index
+
+Q12 of 20
+
+Which of the following statements are true regarding Matrix variables? (Choose any 2 options)
+
+- [x] ***We cannot use Matrix Variables in URI without required configuration.***
+- [ ] Matrix variables should always be to the end of URI
+- [x] ***We separate matrix variables by Semi colon ";"***
+- [ ] Matrix Variable should always be of type Map as it has to hold key, value pairs.
+
+
 Q5 of 20
 
 Have a look at the following controller method. (Assume that the REST resources corresponding to employee and address are available in the same application.)
