@@ -1,3 +1,32 @@
+Q15 of 20
+
+Observe the following controller. (Assume necessary imports are done)
+
+@RestController
+@RequestMapping("/books")
+public class BookController {
+    @GetMapping("/det/{bookPrice}")
+    public List<BookDTO> getBooks (@RequestParam() String bookName, @PathVariable() int bookPrice) { 
+        //code to search for books based on book name and cost.
+    }
+}
+
+Which of the below is the correct URI to invoke the getBooks() controller method?
+
+- [ ] http://localhost:8080/bookstore/books/det/400/bookName=java 
+- [ ] http://localhost:8080/bookstore/books/det/bookPrice-400?bookName=java 
+- [x] ***http://localhost:8080/bookstore/books/det/400?bookName=java***
+- [ ] http://localhost:8080/bookstore/books/det?bookName=java/400
+
+Q16 of 20
+
+Identify the correct order of request processing in Spring Rest.
+
+- [ ] Client, DispatcherServlet, HandlerMapper, Controller, ViewResolver, Client
+- [x] ***Client, DispatcherServlet, HandlerMapper, Controller, Client***
+- [ ] Client, HandlerMapper, DispatcherServlet, Client
+- [ ] Client, HandlerMapper, ViewResolver, DispatcherServlet, Client
+
 Q1 of 20
 
 What is the by default URL for the Spring Security login page?
