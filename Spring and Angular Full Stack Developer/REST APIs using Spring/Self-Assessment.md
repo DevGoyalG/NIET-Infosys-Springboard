@@ -1,11 +1,53 @@
 Q1 of 20
 
+Consider the following controller:
+
+@RestController  
+@Valid  
+@RequestMapping("accounts")  
+public class AccountController {  
+    @Autowired  
+    private Account Service acctService;  
+    @GetMapping("/account")  
+    public List<AccountDTO> getAccount Details (@Max (value-10000000, message="the value is out of range") @NotEmpty (message="account number should not  
+        return acctService.fetchAccount Details (acctNo, ifsc Code);  
+    }  
+}  
+
+What is wrong with above controller?
+
+- [ ] @Valid is a parameter level annotation. It should be placed before acctno Request parameter.
+- [x] ***@Validated annotation should present over controller rather than @Valid annotation.***
+- [ ] There is no wrong with this controller.
+- [ ] Should not apply two validations on acctno Request parameter.
+
+
+Q1 of 20
+
 What is the by default URL for the Spring Security login page?
 
 - [x] ***/login***
 - [ ] /signin
 - [ ] /auth
 - [ ] /index
+
+Q3 of 20
+
+What should be inserted in Line 1, Line 2 to differentiate given controller methods using Request Parameter versioning
+
+//Linel
+public PlanDTO fetchPlanById(@PathVariable("planId") int planId)
+//Line 2
+public string fetchPlanById2 (@PathVariable("planId") int planId)
+
+- [ ] Line1 - @GetMapping(value="/{planld}/VER=1")
+Line2 - @GetMapping(value="/{planld}/VER=2")
+- [ ] Line1 - @GetMapping(value="/{planld)}?ver=1")
+Line2 - @GetMapping(value="/{planld)?ver=2" )
+- [x] ***Line1 - @GetMapping(value="/{planld}", params = "VER=1")
+Line2 - @GetMapping(value="/{planld}", params = "VER=2")***
+- [ ] Line1 - @GetMapping(value="/{planld}) @param(ver=1)
+Line2 - @GetMapping(value="/{planld}) @param(ver=2)
 
 Q5 of 20
 
