@@ -19,7 +19,7 @@
 
 <br>
 
-<p align="center"><a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20Pythonn"><img src="https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/img/Introduction%20to%20Python.png">Click Here ⚡︎</a></p>
+<p align="center"><a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20Python"><img src="https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/img/Introduction%20to%20Python.png">Click Here ⚡︎</a></p>
 
 <br>
 
