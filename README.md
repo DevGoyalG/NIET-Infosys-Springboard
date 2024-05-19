@@ -27,7 +27,7 @@
 
 <br>
 
-<p align="center"> <a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Next%20Gen%20Technologies"><img src="https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/img/Next%20Gen%20Technologies.png">Click Here ⚡︎</a></p>
+<p align="center"> <a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Next%20Gen%20Technologies"><img src="https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/img/Next%20Gen%20Technologies .png">Click Here ⚡︎</a></p>
 
 <br>
 
