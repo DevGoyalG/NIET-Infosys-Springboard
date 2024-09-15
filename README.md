@@ -31,6 +31,10 @@
 
 <br>
 
+<p align="center"> <a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Deep%20Learning%20for%20Developers"><img src="https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/img/Deep%20Learning%20for%20Developers.png">Click Here ⚡︎</a></p>
+
+<br>
+
 <p align="center"> <a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/ReactJS"><img src="https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/img/ReactJS.png">Click Here ⚡︎</a></p>
 
 <br>
