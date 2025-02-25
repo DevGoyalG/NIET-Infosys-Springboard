@@ -19,6 +19,10 @@
 
 <br>
 
+<p align="center"> <a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Data%20Structures%20and%20Algorithms%20using%20Java"><img src="https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/img/Data%20Structures%20and%20Algorithms%20using%20Java.png">Click Here ⚡︎</a></p>
+
+<br>
+
 <p align="center"><a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20Python"><img src="https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/img/Introduction%20to%20Python.png">Click Here ⚡︎</a></p>
 
 <br>
