@@ -47,6 +47,10 @@
 
 <br>
 
+<p align="center"> <a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20AI%20%26%20ML"><img src="https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/img/Introduction%20to%20AI%20%26%20ML.png">Click Here ⚡︎</a></p>
+
+<br>
+
 <p align="center"> <a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20ML%20and%20AI"><img src="https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/img/Introduction%20to%20ML%20and%20AI.png">Click Here ⚡︎</a></p>
 
 <br>
