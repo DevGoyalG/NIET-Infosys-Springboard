@@ -55,6 +55,10 @@
 
 <br>
 
+<p align="center"> <a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Data%20Structures%20and%20Algorithms%20using%20Python%20-%20Part%201"><img src="https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/img/Data%20Structures%20and%20Algorithms%20using%20Python%20-%20Part%201.png">Click Here ⚡︎</a></p>
+
+<br>
+
 The code for this document file is used from <a href="https://github.com/krsatyam7">Kumar Satyam's</a> repository. Huge thanks to him ❤️.
 
 
