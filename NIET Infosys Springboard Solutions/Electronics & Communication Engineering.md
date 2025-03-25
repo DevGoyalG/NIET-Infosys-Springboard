@@ -1,67 +1,87 @@
-# NIET Infosys Springboard Solutions
+<div align="center">
 
-## Branch : Electronics & Communication Engineering
+  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS
 
-## First Year
+  ## Branch : Electronics & Communication Engineering
 
-### First Semester
+  ## 🔷 First Year  
 
-| Course Name                                      | Course Link | Solution Link |
-|------------------------------------------------|-------------|---------------|
-| Introduction to Python                        | [Course Link](#) | [View Solution](#) |
-| Computer Science Fundamentals                 | [Course Link](#) | [View Solution](#) |
+</div>
 
-### Second Semester
+### 🔸 First Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Introduction to Python                        | [Course Link](#) | [View Solution](#) |
-| Computer Science Fundamentals                 | [Course Link](#) | [View Solution](#) |
+| Next Gen Technologies                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01255932461115801653_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Next%20Gen%20Technologies) |
+| Programming Fundamentals using Python - Science Graduates - Foundation Program                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127412552654028801068_shared/overview) | [View Solution] |
 
-## Second Year
-
-### Third Semester
+### 🔸 Second Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Introduction to Python                        | [Course Link](#) | [View Solution](#) |
-| Computer Science Fundamentals                 | [Course Link](#) | [View Solution](#) |
+| Programming In C                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012996602861608960271_shared/overview) | [View Solution] |
+| Microsoft Office 2016                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384339925970944038247_shared/overview) | [View Solution] |
 
-### Fourth Semester
+<div align="center">
+  
+  ## 🔷 Second Year
+  
+</div>
 
-| Course Name                                      | Course Link | Solution Link |
-|------------------------------------------------|-------------|---------------|
-| Introduction to Python                        | [Course Link](#) | [View Solution](#) |
-| Computer Science Fundamentals                 | [Course Link](#) | [View Solution](#) |
-
-## Third Year
-
-### Fifth Semester
+### 🔸 Third Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Introduction to Python                        | [Course Link](#) | [View Solution](#) |
-| Computer Science Fundamentals                 | [Course Link](#) | [View Solution](#) |
+| Express PCB Training                     | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384317577767321632299_shared/overview) | [View Solution] |
+| Data Structures and Algorithms using Python - Part 1                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409722749255681063_shared/overview) | [View Solution] |
 
-### Sixth Semester
-
-| Course Name                                      | Course Link | Solution Link |
-|------------------------------------------------|-------------|---------------|
-| Introduction to Python                        | [Course Link](#) | [View Solution](#) |
-| Computer Science Fundamentals                 | [Course Link](#) | [View Solution](#) |
-
-## Fourth Year
-
-### Seventh Semester
+### 🔸 Fourth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Introduction to Python                        | [Course Link](#) | [View Solution](#) |
-| Computer Science Fundamentals                 | [Course Link](#) | [View Solution](#) |
+| IoT Raspberry Pi with Projects                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384789198063206456721_shared/overview) | [View Solution] |
+| Mobile Apps Development - Advanced Applications                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138418887247626247150_shared/overview) | [View Solution] |
+| Internet of Things 201                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0129563012988354561318_shared/overview) | [View Solution] |
 
-### Eighth Semester
+<div align="center">
+  
+  ## 🔷 Third Year
+  
+</div>
+
+### 🔸 Fifth Semester
+
+| Course Name                                      | Course Link | Solution Link |
+|------------------------------------------------  |-------------|---------------|
+| Wireless Evolution and 4G LTE Overview                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0126690195044843520_shared/overview) | [View Solution] |
+| Artificial Intelligence                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384246969322700815386_shared/overview) | [View Solution] |
+
+### 🔸 Sixth Semester
+
+| Course Name                                      | Course Link | Solution Link |
+|------------------------------------------------  |-------------|---------------|
+| Data Structures and Algorithms                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384203240484864010470_shared/overview) | [View Solution] |
+| Wireless 5G Overview                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130807757242204161122_shared/overview) | [View Solution] |
+| Introduction to ML and AI                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0137398721079705605/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20ML%20and%20AI) |
+
+<div align="center">
+  
+  ## 🔷 Fourth Year
+  
+</div>
+
+### 🔸 Seventh Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Introduction to Python                        | [Course Link](#) | [View Solution](#) |
-| Computer Science Fundamentals                 | [Course Link](#) | [View Solution](#) |
+| Fundamentals of Data Networking                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012807053341081600207_shared/overview) | [View Solution] |
+| Kubernetes Course from a DevOps guru (Kubernetes + Docker) | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384659440540876851119_shared/overview) | [View Solution] |
+| Mastering Go Programming                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944316508323842425_shared/overview) | [View Solution] |
+
+### 🔸 Eighth Semester
+
+| Course Name                                      | Course Link | Solution Link |
+|------------------------------------------------|-------------|---------------|
+| Fundamentals of Routing 101                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012876444773040128213_shared/overview) | [View Solution] |
+| Network Fundamentals                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012683751296065536354_shared/overview) | [View Solution] |
+| Network Fundamentals 101                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012874910653456384163_shared/overview) | [View Solution] |
