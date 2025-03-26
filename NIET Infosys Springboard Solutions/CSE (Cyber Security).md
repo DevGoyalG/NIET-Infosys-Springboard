@@ -13,7 +13,7 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
 | Next Gen Technologies                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01255932461115801653_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Next%20Gen%20Technologies) |
-| Programming Fundamentals using Python - Science Graduates - Foundation Program                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127412552654028801068_shared/overview) | [View Solution] |
+| Programming Fundamentals using Python - Science Graduates - Foundation Program                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127412552654028801068_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Science%20Graduates%20-%20Foundation%20Program) |
 
 ### 🔸 Second Semester
 
