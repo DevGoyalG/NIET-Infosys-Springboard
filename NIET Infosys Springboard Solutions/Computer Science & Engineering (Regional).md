@@ -92,4 +92,4 @@
 | Angular Developer Program                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01252530390265856018_shared/overview) | [View Solution] |
 | Mobile App Development using Flutter                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013194789269504000417_shared/overview) | [View Solution] |
 | Azure Devops                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012795695101108224220_shared/overview) | [View Solution] |
-| Decision Trees using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130828974237040647635_shared/overview) | [View Solution] |
+| Decision Trees using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130828974237040647635_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20ML%20and%20AI/Decision%20Trees%20using%20Python) |
