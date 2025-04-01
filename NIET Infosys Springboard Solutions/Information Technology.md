@@ -58,7 +58,7 @@
 | ReactJS                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_10648877150323546000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/ReactJS) |
 | Network Management Systems                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_24773256689095262000_shared/overview) | [View Solution] |
 | Database Management System - Science Graduates                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012808459282808832527_shared/overview) | [View Solution] |
-| Twitter Bootstrap                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_24029875493927956000_shared/overview) | [View Solution] |
+| Twitter Bootstrap                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_24029875493927956000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Twitter%20Bootstrap) |
 
 ### 🔸 Sixth Semester
 
