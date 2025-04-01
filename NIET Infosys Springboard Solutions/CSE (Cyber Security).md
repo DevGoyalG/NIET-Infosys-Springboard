@@ -43,7 +43,7 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
 | Programming Using Java                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012880464547618816347_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20using%20Java) |
-| Programming Fundamentals Using Python - Part 2                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012734003600908288382_shared/overview) | [View Solution] |
+| Programming Fundamentals Using Python - Part 2                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012734003600908288382_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Part%202) |
 | Cyber Security and Hacker Tactics Awareness Training                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384346510157414439928_shared/overview) | [View Solution] |
 | Ethical Hacker v11                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01381725418107699255/overview) | [View Solution] |
 
