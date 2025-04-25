@@ -8,8 +8,25 @@
 <p align="center"> <b> If you found this repository helpful, give us a  ⭐️ </b> </p>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Segoe+script&duration=1000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Goal+%3A+20+%E2%98%85" alt="Typing SVG" /></a> </p>
 
-<H1 align="center"> NIET's yearwise and branchwise Infosys Springboard Solution</H1>
-<p align="center"> <a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions">👉🏻 CLICK HERE 👈🏻</a></p>
+<H1 align="center"> 🔷 NIET's yearwise and branchwise Infosys Springboard Solution 🔷 </H1>
+<!-- <p align="center"> <a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions">👉🏻 CLICK HERE 👈🏻</a></p> -->
+
+| Branch Name                                               | Access Link                                          |
+|-----------------------------------------------------------|------------------------------------------------------|
+| CSE (Artificial Intelligence and Machine Learning)        | [Course Link](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/CSE%20(Artificial%20Intelligence%20and%20Machine%20Learning).md) |
+| CSE (Artificial Intelligence)                             | [Course Link](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/CSE%20(Artificial%20Intelligence).md)  |
+| CSE (Cyber Security)                                      | [Course Link](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/CSE%20(Cyber%20Security).md)           |
+| CSE (Data Science)                                        | [Course Link](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/CSE%20(Data%20Science).md)             |
+| CSE (Internet of Things)                                  | [Course Link](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/CSE%20(Internet%20of%20Things).md)     |
+| Computer Science & Business Systems                       | [Course Link](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Computer%20Science%20%26%20Business%20Systems.md) |
+| Computer Science & Engineering (Regional)                 | [Course Link](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Computer%20Science%20%26%20Engineering%20(Regional).md) |
+| Computer Science & Engineering                            | [Course Link](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Computer%20Science%20%26%20Engineering.md) |
+| Computer Science                                          | [Course Link](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Computer%20Science.md)                 |
+| Electronics & Communication Engineering                   | [Course Link](Electronics%20&%20Communication%20Engineering.md) |
+| Information Technology                                    | [Course Link](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Information%20Technology.md)           |
+| Mechanical Engineering                                    | [Course Link](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Mechanical%20Engineering.md)           |
+
+
 <br> 
 
 <H2 align="center"> This repository contains answers for the following courses.</H2>
