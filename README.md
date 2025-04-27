@@ -3,13 +3,24 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/DevGoyalG)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/DevGoyalG?tab=repositories)
 
-<h1 align="center"> NIET INFOSYS SPRINGBOARD ANSWERS </h1>
+<h1 align="center"> 🚀 NIET INFOSYS SPRINGBOARD ANSWERS 🚀 </h1>
 
-<p align="center"> <b> If you found this repository helpful, give us a  ⭐️ </b> </p>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Segoe+script&duration=1000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Goal+%3A+20+%E2%98%85" alt="Typing SVG" /></a> </p>
+<p align="center">
+  <b>A curated collection of Infosys Springboard solutions for NIET students, organized year-wise and branch-wise for easy access and effective learning.</b>
+</p>
+
+
+<br/>
+
+<p align="center">
+  <b>⭐ If you find this repository helpful, please give it a Star! ⭐</b>
+</p>
+
+<p align="center">
+  <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Segoe+script&duration=1000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Goal+%3A+20+%E2%98%85" alt="Typing SVG" /></a> </p>
+</p>
 
 <H1 align="center"> 🔷 NIET's yearwise and branchwise Infosys Springboard Solution 🔷 </H1>
-<!-- <p align="center"> <a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions">👉🏻 CLICK HERE 👈🏻</a></p> -->
 
 | Branch Name                                               | Access Link                                          |
 |-----------------------------------------------------------|------------------------------------------------------|
@@ -26,7 +37,50 @@
 | Information Technology                                    | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Information%20Technology.md)           |
 | Mechanical Engineering                                    | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Mechanical%20Engineering.md)           |
 
+---
 
+<h2 align="center">🔶 Looking for NIET STUDY MATERIAL ? 🔶</h2>
+
+<p align="center">
+  <b>Catch all study material branch-wise here:</b><br><br>
+  👉 <a href="https://github.com/DevGoyalG/NIET-Study-Material" target="_blank"><b>Click Here for Study Material 🚀</b></a>
+</p>
+
+---
+
+### 📌 How You Can Help
+
+- ⭐ Star this repository if you find it useful!
+- 🔗 Share it with your friends and batchmates.
+- 🛠️ Contribute by creating a Pull Request if you have more materials to share.
+
+---
+
+### 🤝 Connect with Me
+
+
+<a href="https://github.com/DevGoyalG" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/devgoyalg/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/dev_goyal_g/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="https://x.com/dev_goyal_g" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+
+---
+<p align="center">
+  <b>Thank you for visiting! Happy Learning 🚀</b>
+</p>
+
+<!--
 <br> 
 
 <H2 align="center"> This repository contains answers for the following courses.</H2>
@@ -97,6 +151,6 @@
 <br>
 
 The code for this document file is used from <a href="https://github.com/krsatyam7">Kumar Satyam's</a> repository. Huge thanks to him ❤️.
-
+-->
 
 <!-- Dev Goyal -->
