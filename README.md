@@ -43,7 +43,7 @@
 
 <p align="center">
   <b>Catch all study material branch-wise here:</b><br><br>
-  👉 <a href="https://github.com/DevGoyalG/NIET-Study-Material" target="_blank"><b>Click Here for Study Material 🚀</b></a>
+  👉 <a href="https://github.com/DevGoyalG/NIET-Study-Material" target="_blank"><b>Click Here for Study Material</b></a> 👈
 </p>
 
 ---
