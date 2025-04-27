@@ -6,7 +6,7 @@
 <h1 align="center"> 🚀 NIET INFOSYS SPRINGBOARD ANSWERS 🚀 </h1>
 
 <p align="center">
-  <b>A curated collection of Infosys Springboard solutions for NIET students, organized year-wise and branch-wise for easy access and effective learning.</b>
+  <b>A curated collection of Infosys Springboard solutions for NIET students,<br>organized year-wise and branch-wise for easy access and effective learning.</b>
 </p>
 
 
