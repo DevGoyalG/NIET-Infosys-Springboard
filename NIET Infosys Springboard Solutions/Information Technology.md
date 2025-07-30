@@ -54,7 +54,7 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
-| Natural Language Processing using Python                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125953625493258244_shared/overview) | [View Solution] |
+| Natural Language Processing using Python                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125953625493258244_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Natural%20Language%20Processing%20using%20Python) |
 | ReactJS                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_10648877150323546000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/ReactJS) |
 | Network Management Systems                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_24773256689095262000_shared/overview) | [View Solution] |
 | Database Management System - Science Graduates                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012808459282808832527_shared/overview) | [View Solution] |
