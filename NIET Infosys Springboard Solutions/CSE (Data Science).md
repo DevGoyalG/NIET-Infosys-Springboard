@@ -75,7 +75,7 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
 | Deep Learning for Developers                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01274814254931148859_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Deep%20Learning%20for%20Developers) |
-| Natural Language Processing using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125953625493258244_shared/overview) | [View Solution] |
+| Natural Language Processing using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125953625493258244_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Natural%20Language%20Processing%20using%20Python) |
 | Spring Boot and Angular-React Stack -DevOps Tools and Capstone Project                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01269872058301644883_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Spring%20Boot%20and%20Angular-React%20Stack%20-DevOps%20Tools%20and%20Capstone%20Project) |
 | Java Web Services JWS Training                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384291859742720026469_shared/overview) | [View Solution] |
 
