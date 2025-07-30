@@ -33,7 +33,7 @@
 | Computer Science & Engineering (Regional)                 | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Computer%20Science%20%26%20Engineering%20(Regional).md) |
 | Computer Science & Engineering                            | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Computer%20Science%20%26%20Engineering.md) |
 | Computer Science                                          | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Computer%20Science.md)                 |
-| Electronics & Communication Engineering                   | [Click Here](Electronics%20&%20Communication%20Engineering.md) |
+| Electronics & Communication Engineering                   | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Electronics%20%26%20Communication%20Engineering.md) |
 | Information Technology                                    | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Information%20Technology.md)           |
 | Mechanical Engineering                                    | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Mechanical%20Engineering.md)           |
 
