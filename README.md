@@ -53,7 +53,7 @@
 If you want updates on **"Internships, Jobs, Events, and Hackathons"**, you can join the group here:  
 👉 [Join WhatsApp Group](https://chat.whatsapp.com/KlozUtzoRSKAUebkcoPnYN) 👈
 
-✅ **1300+ students** have already joined and are taking benefit!
+✅ **1500+ students** have already joined and are taking benefit!
 
 ---
 
