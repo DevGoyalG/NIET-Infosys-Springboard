@@ -22,8 +22,8 @@
 
 <H1 align="center"> 🔷 NIET's yearwise and branchwise Infosys Springboard Solutions 🔷 </H1>
 
-| Branch Name                                               | Access Link                                          |
-|-----------------------------------------------------------|------------------------------------------------------|
+| Branch Name                                               | Access Link                                           |
+|-----------------------------------------------------------|-------------------------------------------------------|
 | CSE (Artificial Intelligence and Machine Learning)        | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/CSE%20(Artificial%20Intelligence%20and%20Machine%20Learning).md) |
 | CSE (Artificial Intelligence)                             | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/CSE%20(Artificial%20Intelligence).md)  |
 | CSE (Cyber Security)                                      | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/CSE%20(Cyber%20Security).md)           |
