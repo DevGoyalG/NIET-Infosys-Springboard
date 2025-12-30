@@ -81,5 +81,5 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Artificial Intelligence                         | [Course Link] | [View Solution] |
+| Artificial Intelligence                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138629247685509126/overview) | [View Solution] |
 | Java Programming Fundamentals                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution] |
