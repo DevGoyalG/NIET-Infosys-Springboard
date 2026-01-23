@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS : Batch 2023-27
+  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS : BATCH 2023-27
 
   <p align="center"> <b> [ If you found this repository helpful, give us a ⭐️ ] </b> </p>
 
