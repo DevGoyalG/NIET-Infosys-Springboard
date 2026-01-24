@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS
+  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS : BATCH 2023-27
 
   <p align="center"> <b> [ If you found this repository helpful, give us a ⭐️ ] </b> </p>
 
@@ -15,14 +15,14 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
 | Next Gen Technologies                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01255932461115801653_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Next%20Gen%20Technologies) |
-| Programming Fundamentals using Python - Science Graduates - Foundation Program                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127412552654028801068_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Science%20Graduates%20-%20Foundation%20Program) |
+|Programming Fundamentals usingPython - Part 1                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409616243425281061_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Part%201) |
 
 ### 🔸 Second Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
+| Design Thinking for innovation                 | [Course Link]() | [View Solution] |
 | Programming In C                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012996602861608960271_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20in%20C) |
-| Microsoft Office 2016                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384339925970944038247_shared/overview) | [View Solution] |
 
 <div align="center">
   
@@ -55,16 +55,18 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
+| C on Linux                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384246969322700815386_shared/overview) | [View Solution] |
 | Wireless Evolution and 4G LTE Overview                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0126690195044843520_shared/overview) | [View Solution] |
-| Artificial Intelligence                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384246969322700815386_shared/overview) | [View Solution] |
 
 ### 🔸 Sixth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
 | Data Structures and Algorithms                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384203240484864010470_shared/overview) | [View Solution] |
-| Wireless 5G Overview                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130807757242204161122_shared/overview) | [View Solution] |
-| Introduction to ML and AI                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0137398721079705605/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20ML%20and%20AI) |
+| Introduction to AI & ML                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01424935121484185673/overview) | [View Solution] |
+| Wireless 5G Overview                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130807757242204161122_shared/overview) | [View Solution] |
+
+<!--
 
 <div align="center">
   
@@ -87,3 +89,5 @@
 | Fundamentals of Routing 101                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012876444773040128213_shared/overview) | [View Solution] |
 | Network Fundamentals                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012683751296065536354_shared/overview) | [View Solution] |
 | Network Fundamentals 101                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012874910653456384163_shared/overview) | [View Solution] |
+
+-->
