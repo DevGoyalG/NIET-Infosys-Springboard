@@ -4,7 +4,7 @@
 
   <p align="center"> <b> [ If you found this repository helpful, give us a ⭐️ ] </b> </p>
 
-  ## Branch : Information Technology
+  ## Branch : Biotechnology
 
   ## 🔷 First Year  
 
