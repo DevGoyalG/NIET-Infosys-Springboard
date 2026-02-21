@@ -20,22 +20,16 @@
   <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Segoe+script&duration=1000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Goal+%3A+20+%E2%98%85" alt="Typing SVG" /></a> </p>
 </p>
 
+---
+
 <H1 align="center"> 🔷 NIET's yearwise and branchwise Infosys Springboard Solutions 🔷 </H1>
 
 | Branch Name                                               | Access Link                                           |
 |-----------------------------------------------------------|-------------------------------------------------------|
-| CSE (Artificial Intelligence and Machine Learning)        | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/CSE%20(Artificial%20Intelligence%20and%20Machine%20Learning).md) |
-| CSE (Artificial Intelligence)                             | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/CSE%20(Artificial%20Intelligence).md)  |
-| CSE (Cyber Security)                                      | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/CSE%20(Cyber%20Security).md)           |
-| CSE (Data Science)                                        | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/CSE%20(Data%20Science).md)             |
-| CSE (Internet of Things)                                  | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/CSE%20(Internet%20of%20Things).md)     |
-| Computer Science & Business Systems                       | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Computer%20Science%20%26%20Business%20Systems.md) |
-| Computer Science & Engineering (Regional)                 | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Computer%20Science%20%26%20Engineering%20(Regional).md) |
-| Computer Science & Engineering                            | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Computer%20Science%20%26%20Engineering.md) |
-| Computer Science                                          | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Computer%20Science.md)                 |
-| Electronics & Communication Engineering                   | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Electronics%20%26%20Communication%20Engineering.md) |
-| Information Technology                                    | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Information%20Technology.md)           |
-| Mechanical Engineering                                    | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/NIET%20Infosys%20Springboard%20Solutions/Mechanical%20Engineering.md)           |
+| BATCH 2022-26        | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions%20Batch%202022-26) |
+| BATCH 2023-27        | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions%20Batch%202023-27) |
+| BATCH 2024-28        | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions%20Batch%202024-28) |
+| BATCH 2025-29        | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions%20Batch%202025-29) |
 
 ---
 

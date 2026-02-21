@@ -14,15 +14,17 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
+| JavaScript                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_18109698366332810000_shared/overview) | [View Solution] |
 | Next Gen Technologies                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01255932461115801653_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Next%20Gen%20Technologies) |
-| Programming Fundamentals using Python - Science Graduates - Foundation Program                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127412552654028801068_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Science%20Graduates%20-%20Foundation%20Program) |
 
 ### 🔸 Second Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Programming In C                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012996602861608960271_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20in%20C) |
-| Microsoft Office 2016                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384339925970944038247_shared/overview) | [View Solution] |
+| English Communication for Tech Professionals                         | [Course Link] | [View Solution] |
+| Generative AI: Prompt Engineering Basics                 | [Course Link] | [View Solution] |
+
+<!--
 
 <div align="center">
   
@@ -43,8 +45,6 @@
 |------------------------------------------------|-------------|---------------|
 | Database Management System - Science Graduates                         | [Course Link] | [View Solution] |
 | Master Network Automation with Python for Network Engineers                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157704608743424239/overview) | [View Solution] |
-
-<!--
 
 <div align="center">
   
