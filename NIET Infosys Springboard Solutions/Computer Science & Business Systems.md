@@ -82,6 +82,6 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Artificial Intelligence                         | [Course Link] | [View Solution] |
+| Artificial Intelligence                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138629247685509126/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Artificial%20Intelligence) |
 | Oracle E-Business Suite Functional Foundation                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013102764115615744811_shared/overview) | [View Solution] |
 | Internet of Things 201                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0129563012988354561318_shared/overview) | [View Solution] |
