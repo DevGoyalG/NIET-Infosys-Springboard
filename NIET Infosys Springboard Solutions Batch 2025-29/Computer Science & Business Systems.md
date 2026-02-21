@@ -21,8 +21,10 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Programming In C                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012996602861608960271_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20in%20C) |
-| Microsoft Office 2016                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384339925970944038247_shared/overview) | [View Solution] |
+| English Communication for Tech Professionals                         | [Course Link] | [View Solution] |
+| Programming Fundamentals using Python - Part 2                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012734003600908288382_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Part%202) |
+
+<!--
 
 <div align="center">
   
@@ -45,8 +47,6 @@
 | Comprehensive Training on Unix and Linux OS Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384325804798771234443_shared/overview) | [View Solution] |
 |  Implementing Database Using SQL Server 2012                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_26321260477732463000_shared/overview) | [View Solution] |
 |  TechA Build and Deploy Projects Certification                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013839083034746880747_shared/overview) | [View Solution] |
-
-<!--
 
 <div align="center">
   
