@@ -53,7 +53,7 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
-| Explore Machine Learning using Python                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012600400790749184237_shared/overview) | [View Solution] |
+| Explore Machine Learning using Python                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012600400790749184237_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/Artificial%20Intelligence/Explore%20Machine%20Learning%20using%20Python%20-%20Assessment%20-%20DevGoyalG.pdf) |
 | Scrum In Practice                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012673833039093760592_shared/overview) | [View Solution] |
 | Twitter Bootstrap                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_24029875493927956000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Twitter%20Bootstrap) |
 
@@ -62,7 +62,7 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
 | Data Analysis with Pandas and Python                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944106610360321793_shared/overview) | [View Solution] |
-| Java Programming Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution] |
+| Java Programming Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Java%20Programming%20Fundamentals) |
 | Network Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012683751296065536354_shared/overview) | [View Solution] |
 | TechA Java Developer Certification                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013852372966899712414_shared/overview) | [View Solution] |
 
