@@ -54,7 +54,7 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
-| Java Programming Fundamentals                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution] |
+| Java Programming Fundamentals                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Java%20Programming%20Fundamentals) |
 | Lean Six Sigma Green Belt - 2022                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013841673346179072818_shared/overview) | [View Solution] |
 
 ### 🔸 Sixth Semester

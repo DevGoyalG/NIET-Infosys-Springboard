@@ -64,7 +64,7 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
-| AI-900: Microsoft Azure AI Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013099438289641472409_shared/overview) | [View Solution] |
+| AI-900: Microsoft Azure AI Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013099438289641472409_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/Artificial%20Intelligence/AI-900%20-%20Self%20Assessment%20-%20DevGoyalG.pdf) |
 |  Explore Machine Learning using R                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_10010825806395720000_shared/overview) | [View Solution] |
 | JavaScript                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_18109698366332810000_shared/overview) | [View Solution] |
 | Kotlin Programming                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125699203121725449_shared/overview) | [View Solution] |

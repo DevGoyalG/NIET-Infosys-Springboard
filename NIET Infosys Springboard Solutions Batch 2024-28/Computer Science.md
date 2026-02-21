@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS : BATCH 2023-27
+  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS : BATCH 2024-28
 
   <p align="center"> <b> [ If you found this repository helpful, give us a ⭐️ ] </b> </p>
 
@@ -15,14 +15,14 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
 | Next Gen Technologies                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01255932461115801653_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Next%20Gen%20Technologies) |
-|Programming Fundamentals usingPython - Part 1                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409616243425281061_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Part%201) |
+| Programming Fundamentals using Python - Science Graduates - Foundation Program                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127412552654028801068_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Science%20Graduates%20-%20Foundation%20Program) |
 
 ### 🔸 Second Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Design Thinking for innovation                 | [Course Link]() | [View Solution] |
 | Programming In C                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012996602861608960271_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20in%20C) |
+| Microsoft Office 2016                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384339925970944038247_shared/overview) | [View Solution] |
 
 <div align="center">
   
@@ -41,8 +41,10 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Data Structures and Algorithms using Python - Part 2                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384325804798771234443_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Data%20Structures%20and%20Algorithms%20using%20Python%20-%20Part%202) |
-| Programming Using Java                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012880464547618816347_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20using%20Java) |
+| Database Management System - Science Graduates                         | [Course Link] | [View Solution] |
+| Master Network Automation with Python for Network Engineers                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157704608743424239/overview) | [View Solution] |
+
+<!--
 
 <div align="center">
   
@@ -63,8 +65,6 @@
 |------------------------------------------------  |-------------|---------------|
 | Continuous Integration and Delivery- DevOps                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013538989171924992269_shared/overview) | [View Solution] |
 | Cloud -Native Applications in Java                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01329509720843059246934_shared/overview) | [View Solution] |
-
-<!--
 
 <div align="center">
   
