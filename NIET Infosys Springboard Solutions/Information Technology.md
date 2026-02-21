@@ -87,4 +87,4 @@
 |------------------------------------------------|-------------|---------------|
 | Programming Fundamentals using Python - Science
 Graduates - Foundation Program                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127412552654028801068_shared/overview) | [View Solution] |
-| Artificial Intelligence                          | [Course Link] | [View Solution] |
+| Artificial Intelligence                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138629247685509126/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Artificial%20Intelligence) |
