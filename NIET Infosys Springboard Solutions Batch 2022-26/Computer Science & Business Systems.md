@@ -1,10 +1,10 @@
 <div align="center">
 
-  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS
+  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS : BATCH 2022-26
 
   <p align="center"> <b> [ If you found this repository helpful, give us a ⭐️ ] </b> </p>
 
-  ## Branch : CSE (Artificial Intelligence and Machine Learning)
+  ## Branch : Computer Science & Business Systems
 
   ## 🔷 First Year  
 
@@ -35,7 +35,7 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
 | Object Oriented Programming Using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409722749255681063_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Object%20Oriented%20Programming%20using%20Python) |
-| Probability and Statistics using Python                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0126044366859141121050_shared/overview) | [View Solution] |
+| Programming Using C++                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01297200240671948837_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Using%20C%2B%2B) |
 
 ### 🔸 Fourth Semester
 
@@ -61,8 +61,9 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
-| Introduction to AI & ML                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01424935121484185673/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20AI%20%26%20ML) |
-| JavaScript Essentials                             | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01280635098454425643_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/JavaScript%20Essentials) |
+| Data Analytics                          | [Course Link] | [View Solution] |
+| JavaScript                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_18109698366332810000_shared/overview) | [View Solution] |
+| Network Fundamentals                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012683751296065536354_shared/overview) | [View Solution] |
 
 <div align="center">
   
@@ -82,4 +83,5 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
 | Artificial Intelligence                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138629247685509126/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Artificial%20Intelligence) |
-| Java Programming Fundamentals                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Java%20Programming%20Fundamentals) |
+| Oracle E-Business Suite Functional Foundation                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013102764115615744811_shared/overview) | [View Solution] |
+| Internet of Things 201                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0129563012988354561318_shared/overview) | [View Solution] |

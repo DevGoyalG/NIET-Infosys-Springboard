@@ -1,10 +1,10 @@
 <div align="center">
 
-  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS
+  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS : BATCH 2022-26
 
   <p align="center"> <b> [ If you found this repository helpful, give us a ⭐️ ] </b> </p>
 
-  ## Branch : Information Technology
+  ## Branch : CSE (Artificial Intelligence)
 
   ## 🔷 First Year  
 
@@ -34,15 +34,15 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Data Structures and Algorithms using Python - Part 1                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409722749255681063_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Data%20Structures%20and%20Algorithms%20using%20Python%20-%20Part%201) |
 | Object Oriented Programming Using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409722749255681063_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Object%20Oriented%20Programming%20using%20Python) |
+| Probability and Statistics using Python                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0126044366859141121050_shared/overview) | [View Solution] |
 
 ### 🔸 Fourth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Building Machine Learning Systems with TensorFlow                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01330146320172646421028_shared/overview) | [View Solution] |
 | Comprehensive Training on Unix and Linux OS Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384325804798771234443_shared/overview) | [View Solution] |
+| Building Machine Learning Systems with TensorFlow                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01330146320172646421028_shared/overview) | [View Solution] |
 
 <div align="center">
   
@@ -54,18 +54,15 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
-| Natural Language Processing using Python                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125953625493258244_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Natural%20Language%20Processing%20using%20Python) |
-| ReactJS                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_10648877150323546000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/ReactJS) |
-| Network Management Systems                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_24773256689095262000_shared/overview) | [View Solution] |
-| Database Management System - Science Graduates                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012808459282808832527_shared/overview) | [View Solution] |
-| Twitter Bootstrap                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_24029875493927956000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Twitter%20Bootstrap) |
+| Deep Learning for Developers                     | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01274814254931148859_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Deep%20Learning%20for%20Developers) |
+| ReactJS                                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_10648877150323546000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/ReactJS) |
 
 ### 🔸 Sixth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
-| Introduction to ML and AI                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0137398721079705605/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20ML%20and%20AI) |
 | Data Analysis with Pandas and Python                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944106610360321793_shared/overview) | [View Solution] |
+| JavaScript Essentials                             | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01280635098454425643_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/JavaScript%20Essentials) |
 
 <div align="center">
   
@@ -77,14 +74,12 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Deep Learning for Developers                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01274814254931148859_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Deep%20Learning%20for%20Developers) |
-| Continuous Integration and Delivery - DevOps                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013538989171924992269_shared/overview) | [View Solution] |
-| Spring Boot and Angular-React Stack -DevOps Tools and Capstone Project                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01269872058301644883_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Spring%20Boot%20and%20Angular-React%20Stack%20-DevOps%20Tools%20and%20Capstone%20Project) |
+| Natural Language Processing using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125953625493258244_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Natural%20Language%20Processing%20using%20Python) |
+| Spring Boot and Angular-React Stack -DevOps Tools and Capstone Project                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01269872058301644883_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Spring%20Boot%20and%20Angular-React%20Stack%20-DevOps%20Tools%20and%20Capstone%20Project) |
 
 ### 🔸 Eighth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Programming Fundamentals using Python - Science
-Graduates - Foundation Program                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127412552654028801068_shared/overview) | [View Solution] |
-| Artificial Intelligence                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138629247685509126/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Artificial%20Intelligence) |
+| Natural Laungage Processing for developers                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130849458468126729567_shared/overview) | [View Solution] |
+| Angular Developer Program                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01252530390265856018_shared/overview) | [View Solution] |

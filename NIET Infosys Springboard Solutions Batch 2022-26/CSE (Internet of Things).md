@@ -1,10 +1,10 @@
 <div align="center">
 
-  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS
+  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS : BATCH 2022-26
 
   <p align="center"> <b> [ If you found this repository helpful, give us a ⭐️ ] </b> </p>
 
-  ## Branch : CSE (Cyber Security)
+  ## Branch : CSE (Internet of Things)
 
   ## 🔷 First Year  
 
@@ -34,18 +34,15 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Data Structures and Algorithms using Python - Part 1                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409722749255681063_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Data%20Structures%20and%20Algorithms%20using%20Python%20-%20Part%201) |
 | Object Oriented Programming Using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409722749255681063_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Object%20Oriented%20Programming%20using%20Python) |
-| Comprehensive Training on Unix and Linux OS Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384325804798771234443_shared/overview) | [View Solution] |
+| Internet of Things 101                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_21553622882521997000_shared/overview) | [View Solution] |
 
 ### 🔸 Fourth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Programming Using Java                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012880464547618816347_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20using%20Java) |
-| Programming Fundamentals Using Python - Part 2                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012734003600908288382_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Part%202) |
-| Cyber Security and Hacker Tactics Awareness Training                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384346510157414439928_shared/overview) | [View Solution] |
-| Ethical Hacker v11                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01381725418107699255/overview) | [View Solution] |
+| IOT Automation with ESP8266 with Projects                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384301295320268828657_shared/overview) | [View Solution] |
+| Mobile Apps Development - Advanced Applications                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138418887247626247150_shared/overview) | [View Solution] |
 
 <div align="center">
   
@@ -57,19 +54,15 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
-| Cyber Security and Hacker Tactics Awareness Training                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384346510157414439928_shared/overview) | [View Solution] |
+| Express PCB Training                     | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384317577767321632299_shared/overview) | [View Solution] |
 | ReactJS                                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_10648877150323546000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/ReactJS) |
-| Digital Forensics Essentials                         | [Course Link] | [View Solution] |
-| Network Defense Essentials                         | [Course Link] | [View Solution] |
 
 ### 🔸 Sixth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
-| Microsoft Office 2016                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384339925970944038247_shared/overview) | [View Solution] |
-| Ethical Hacker v11                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01381725418107699255/overview) | [View Solution] |
-
-<!--
+| IoT Raspberry Pi with Projects                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384789198063206456721_shared/overview) | [View Solution] |
+| Java Programming Fundamentals| [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution] |
 
 <div align="center">
   
@@ -81,14 +74,12 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Natural Language Processing using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125953625493258244_shared/overview) | [View Solution] |
-| Spring Boot and Angular-React Stack -DevOps Tools and Capstone Project                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01269872058301644883_shared/overview) | [View Solution] |
+| Deep Learning for Developers                     | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01274814254931148859_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Deep%20Learning%20for%20Developers) |
+| Spring Boot and Angular-React Stack -DevOps Tools and Capstone Project                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01269872058301644883_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Spring%20Boot%20and%20Angular-React%20Stack%20-DevOps%20Tools%20and%20Capstone%20Project) |
 
 ### 🔸 Eighth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Artificial Intelligence                         | [Course Link] | [View Solution] |
-| Java Programming Fundamentals                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution] |
-
--->
+| Artificial Intelligence                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138629247685509126/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Artificial%20Intelligence) |
+| ReactJS                                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_10648877150323546000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/ReactJS) |

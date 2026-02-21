@@ -1,10 +1,10 @@
 <div align="center">
 
-  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS
+  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS : BATCH 2022-26
 
   <p align="center"> <b> [ If you found this repository helpful, give us a ⭐️ ] </b> </p>
 
-  ## Branch : Computer Science
+  ## Branch : Electronics & Communication Engineering
 
   ## 🔷 First Year  
 
@@ -34,15 +34,16 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
+| Express PCB Training                     | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384317577767321632299_shared/overview) | [View Solution] |
 | Data Structures and Algorithms using Python - Part 1                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409722749255681063_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Data%20Structures%20and%20Algorithms%20using%20Python%20-%20Part%201) |
-| Object Oriented Programming Using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409722749255681063_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Object%20Oriented%20Programming%20using%20Python) |
 
 ### 🔸 Fourth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Data Structures and Algorithms using Python - Part 2                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384325804798771234443_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Data%20Structures%20and%20Algorithms%20using%20Python%20-%20Part%202) |
-| Programming Using Java                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012880464547618816347_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20using%20Java) |
+| IoT Raspberry Pi with Projects                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384789198063206456721_shared/overview) | [View Solution] |
+| Mobile Apps Development - Advanced Applications                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138418887247626247150_shared/overview) | [View Solution] |
+| Internet of Things 201                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0129563012988354561318_shared/overview) | [View Solution] |
 
 <div align="center">
   
@@ -54,15 +55,16 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
-| Cloud -Native Applications in Java                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01329509720843059246934_shared/overview) | [View Solution] |
-| ReactJS                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_10648877150323546000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/ReactJS) |
+| Wireless Evolution and 4G LTE Overview                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0126690195044843520_shared/overview) | [View Solution] |
+| Artificial Intelligence                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384246969322700815386_shared/overview) | [View Solution] |
 
 ### 🔸 Sixth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
-| Microsoft Office 2016                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384339925970944038247_shared/overview) | [View Solution] |
-| Exploratory Data Analysis                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012666909428129792728_shared/overview) | [View Solution] |
+| Data Structures and Algorithms                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384203240484864010470_shared/overview) | [View Solution] |
+| Wireless 5G Overview                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130807757242204161122_shared/overview) | [View Solution] |
+| Introduction to ML and AI                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0137398721079705605/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20ML%20and%20AI) |
 
 <div align="center">
   
@@ -74,12 +76,14 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Continuous Integration and Delivery - DevOps                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013538989171924992269_shared/overview) | [View Solution] |
-| Big Data-301                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0126052684230082561692_shared/overview) | [View Solution] |
+| Fundamentals of Data Networking                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012807053341081600207_shared/overview) | [View Solution] |
+| Kubernetes Course from a DevOps guru (Kubernetes + Docker) | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384659440540876851119_shared/overview) | [View Solution] |
+| Mastering Go Programming                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944316508323842425_shared/overview) | [View Solution] |
 
 ### 🔸 Eighth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Spring Boot and Angular-React Stack -DevOps Tools and Capstone Project                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01269872058301644883_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Spring%20Boot%20and%20Angular-React%20Stack%20-DevOps%20Tools%20and%20Capstone%20Project) |
-| Natural Laungage Processing for developers                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130849458468126729567_shared/overview) | [View Solution] |
+| Fundamentals of Routing 101                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012876444773040128213_shared/overview) | [View Solution] |
+| Network Fundamentals                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012683751296065536354_shared/overview) | [View Solution] |
+| Network Fundamentals 101                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012874910653456384163_shared/overview) | [View Solution] |
