@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS : BATCH 2023-27
+  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS : BATCH 2025-29
 
   <p align="center"> <b> [ If you found this repository helpful, give us a ⭐️ ] </b> </p>
 
@@ -15,14 +15,14 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
 | Next Gen Technologies                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01255932461115801653_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Next%20Gen%20Technologies) |
-|Programming Fundamentals usingPython - Part 1                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409616243425281061_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Part%201) |
+| Programming Fundamentals using Python - Science Graduates - Foundation Program                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127412552654028801068_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Science%20Graduates%20-%20Foundation%20Program) |
 
 ### 🔸 Second Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Design Thinking for innovation                 | [Course Link]() | [View Solution] |
 | Programming In C                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012996602861608960271_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20in%20C) |
+| Microsoft Office 2016                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384339925970944038247_shared/overview) | [View Solution] |
 
 <div align="center">
   
@@ -34,15 +34,19 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Object Oriented Programming Using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409722749255681063_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Object%20Oriented%20Programming%20using%20Python) |
+| Data Structures and Algorithms using Python - Part 1                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409722749255681063_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Data%20Structures%20and%20Algorithms%20using%20Python%20-%20Part%201) |
 | Probability and Statistics using Python                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0126044366859141121050_shared/overview) | [View Solution] |
+| TechA Linux Programming Foundation Certification                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384819361839513663_shared/overview) | [View Solution] |
 
 ### 🔸 Fourth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
 | Comprehensive Training on Unix and Linux OS Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384325804798771234443_shared/overview) | [View Solution] |
-| Building Machine Learning Systems with TensorFlow                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01330146320172646421028_shared/overview) | [View Solution] |
+| Data Structures and Algorithms using Python - Part 2                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384325804798771234443_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Data%20Structures%20and%20Algorithms%20using%20Python%20-%20Part%202) |
+| TechA Machine Learning with Python Certification                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013853753020538880534_shared/overview) | [View Solution] |
+
+<!--
 
 <div align="center">
   
@@ -65,8 +69,6 @@
 | Data Analysis with Pandas and Python                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944106610360321793_shared/overview) | [View Solution] |
 | Front End Web Developer Certification                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013951019900878848219_shared/overview) | [View Solution] |
 | JavaScript Essentials                             | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01280635098454425643_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/JavaScript%20Essentials) |
-
-<!--
 
 <div align="center">
   

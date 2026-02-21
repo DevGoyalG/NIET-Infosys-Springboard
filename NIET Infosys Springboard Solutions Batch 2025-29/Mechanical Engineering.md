@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS : BATCH 2023-27
+  ## NIET INFOSYS SPRINGBOARD ANSWERS SOLUTIONS : BATCH 2025-29
 
   <p align="center"> <b> [ If you found this repository helpful, give us a ⭐️ ] </b> </p>
 
@@ -15,14 +15,14 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
 | Next Gen Technologies                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01255932461115801653_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Next%20Gen%20Technologies) |
-|Programming Fundamentals usingPython - Part 1                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409616243425281061_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Part%201) |
+| Programming Fundamentals using Python - Science Graduates - Foundation Program                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127412552654028801068_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Science%20Graduates%20-%20Foundation%20Program) |
 
 ### 🔸 Second Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Design Thinking for innovation                 | [Course Link]() | [View Solution] |
 | Programming In C                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012996602861608960271_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20in%20C) |
+| Microsoft Office 2016                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384339925970944038247_shared/overview) | [View Solution] |
 
 <div align="center">
   
@@ -34,15 +34,18 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Introduction to Python                     | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012664745277808640481_shared/overview) | [View Solution] |
+| Advanced Writing                     | [Course Link] | [View Solution] |
 | Cyber Security Foundation                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130752807862845445_shared/overview) | [View Solution] |
 
 ### 🔸 Fourth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Introduction to AI                           | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157703739318272212/overview) | [View Solution] |
+| CATIA V5 - Computer Aided Design (CAD)                    | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012673230995005440538_shared/overview) | [View Solution] |
 | Finite Elements Analysis                   | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01257062840308531232_shared/overview) | [View Solution] |
+| Introduction to AI                           | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157703739318272212/overview) | [View Solution] |
+
+<!--
 
 <div align="center">
   
@@ -66,8 +69,6 @@
 | Sustainable Supply Chains 1: Fundamentals and Reporting       | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014263569540595712236/overview) | [View Solution] |
 | Sustainable Supply Chains 2: Operational Strategies           | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014263567317090304237/overview) | [View Solution] |
 | Sustainable Supply Chains 3: Procurement Strategies           | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014263567224381440238/overview) | [View Solution] |
-
-<!--
 
 <div align="center">
   
