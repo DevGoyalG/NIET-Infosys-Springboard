@@ -63,7 +63,7 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
 | Data Structures and Algorithms                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384203240484864010470_shared/overview) | [View Solution] |
-| Introduction to AI & ML                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01424935121484185673/overview) | [View Solution] |
+| Introduction to AI & ML                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01424935121484185673/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20AI%20%26%20ML) |
 | Wireless 5G Overview                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130807757242204161122_shared/overview) | [View Solution] |
 
 <!--
