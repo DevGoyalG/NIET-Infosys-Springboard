@@ -36,8 +36,6 @@
 |------------------------------------------------|-------------|---------------|
 | Building AI Powered Chat bots Without Programming                        | [Course Link](https://www.coursera.org/learn/building-ai-powered-chatbots) | [View Solution] |
 | Getting Started with AI using IBM Watson                 | [Course Link](https://www.coursera.org/learn/ai-with-ibm-watson) | [View Solution] |
-|Programming Fundamentals usingPython - Part 1                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409616243425281061_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Part%201) |
-| Programming using Java                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012880464547618816347_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20using%20Java) |
 
 ### 🔸 Fourth Semester
 
@@ -45,8 +43,6 @@
 |------------------------------------------------|-------------|---------------|
 | Block Chain Basics                        | [Course Link](https://www.coursera.org/learn/blockchain-basics) | [View Solution] |
 | Cryptography                  | [Course Link](https://www.coursera.org/learn/cryptography) | [View Solution] |
-| Introduction to Python                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012664745277808640481_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20Python) |
-| Spring and Angular Full Stack Developer                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012760837643722752345_shared/overview) | [View Solution](http://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Spring%20and%20Angular%20Full%20Stack%20Developer) |
 
 <div align="center">
   
