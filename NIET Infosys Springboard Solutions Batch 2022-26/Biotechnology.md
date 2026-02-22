@@ -14,15 +14,15 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Next Gen Technologies                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01255932461115801653_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Next%20Gen%20Technologies) |
-|Programming Fundamentals usingPython - Part 1                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409616243425281061_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Part%201) |
+| Introduction to Artificial Intelligence (AI)                         | [Course Link](https://www.coursera.org/learn/introduction-to-ai) | [View Solution] |
+| Python Basics                 | [Course Link](https://www.coursera.org/learn/python-basics) | [View Solution] |
 
 ### 🔸 Second Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Design Thinking for innovation                 | [Course Link]() | [View Solution] |
-| Programming In C                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012996602861608960271_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20in%20C) |
+| Genes and the Human Condition (From Behavior to Biotechnology)                  | [Course Link] | [View Solution] |
+| Human Centered Design for Inclusive Innovation                        | [Course Link](https://www.coursera.org/learn/gender-analytics-human-centered-design) | [View Solution] |
 
 <div align="center">
   
@@ -34,15 +34,15 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Microsoft Excel 2016                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384209409839923212299_shared/overview) | [View Solution] |
-| Probability and Statistics using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0126044366859141121050_shared/overview) | [View Solution] |
+| Bioinformatic Methods I                 | [Course Link](https://www.coursera.org/learn/bioinformatics-methods-1) | [View Solution] |
+| Introduction to Genetics and Evolution                        | [Course Link](https://www.coursera.org/learn/genetics-evolution) | [View Solution] |
 
 ### 🔸 Fourth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Minitab - Data Analytics                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013841681805262848855_shared/overview) | [View Solution] |
-| Financial Modelling - Biotech Company                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384316781574553633022_shared/overview) | [View Solution] |
+| Fundamentals of Immunology: T Cells and Signaling                  | [Course Link](https://www.coursera.org/learn/immunologymhctcellscytokines) | [View Solution] |
+| Genomics: Decoding the Universal Language of Life                         | [Course Link](https://www.coursera.org/learn/genomics-research) | [View Solution] |
 
 <div align="center">
   
@@ -54,8 +54,8 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
+| Strategic Management Course                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384213463393894413525_shared/overview) | [View Solution] |
 | Microsoft Power BI                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138420035052011529489_shared/overview) | [View Solution] |
-| Strategic management                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384213463393894413525_shared/overview) | [View Solution] |
 
 ### 🔸 Sixth Semester
 
@@ -63,8 +63,6 @@
 |------------------------------------------------  |-------------|---------------|
 | Artificial Intelligence                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138629247685509126/overview) | [View Solution] |
 | Explore Machine Learning using Python                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012600400790749184237_shared/overview) | [View Solution] |
-
-<!--
 
 <div align="center">
   
@@ -76,16 +74,12 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Deep Learning for Developers                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01274814254931148859_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Deep%20Learning%20for%20Developers) |
-| Continuous Integration and Delivery - DevOps                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013538989171924992269_shared/overview) | [View Solution] |
-| Spring Boot and Angular-React Stack -DevOps Tools and Capstone Project                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01269872058301644883_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Spring%20Boot%20and%20Angular-React%20Stack%20-DevOps%20Tools%20and%20Capstone%20Project) |
+| Market Research - Research Methodology                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384786426671104055129_shared/overview) | [View Solution] |
+| Sustainable development                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138628249712066564/overview) | [View Solution] |
 
 ### 🔸 Eighth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Programming Fundamentals using Python - Science
-Graduates - Foundation Program                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127412552654028801068_shared/overview) | [View Solution] |
-| Artificial Intelligence                          | [Course Link] | [View Solution] |
-
--->
+| Cyber Security and Applied Ethical Hacking                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384318264289689632577_shared/overview) | [View Solution] |
+| Introduction to Data Preprocessing                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0131050274295726081317_shared/overview) | [View Solution] |
