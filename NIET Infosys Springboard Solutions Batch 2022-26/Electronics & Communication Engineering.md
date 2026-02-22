@@ -14,15 +14,15 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Next Gen Technologies                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01255932461115801653_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Next%20Gen%20Technologies) |
-| Programming Fundamentals using Python - Science Graduates - Foundation Program                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127412552654028801068_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Science%20Graduates%20-%20Foundation%20Program) |
+| Introduction to Artificial Intelligence (AI)                         | [Course Link](https://www.coursera.org/learn/introduction-to-ai) | [View Solution] |
+| Python Basics                 | [Course Link](https://www.coursera.org/learn/python-basics) | [View Solution] |
 
 ### 🔸 Second Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Programming In C                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012996602861608960271_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20in%20C) |
-| Microsoft Office 2016                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384339925970944038247_shared/overview) | [View Solution] |
+| IoT Devices                         | [Course Link](https://www.coursera.org/learn/iot-devices-il) | [View Solution] |
+| Python Classes and Inheritance                  | [Course Link](https://www.coursera.org/learn/python-classes-inheritance) | [View Solution] |
 
 <div align="center">
   
@@ -34,16 +34,15 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Express PCB Training                     | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384317577767321632299_shared/overview) | [View Solution] |
-| Data Structures and Algorithms using Python - Part 1                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409722749255681063_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Data%20Structures%20and%20Algorithms%20using%20Python%20-%20Part%201) |
+| Data Structures                        | [Course Link](https://www.coursera.org/specializations/data-structures-algorithms) | [View Solution] |
+| Design-Led Strategy: Design thinking for business strategy and entrepreneurship                 | [Course Link](https://www.coursera.org/learn/design-strategy) | [View Solution] ||
 
 ### 🔸 Fourth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| IoT Raspberry Pi with Projects                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384789198063206456721_shared/overview) | [View Solution] |
-| Mobile Apps Development - Advanced Applications                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138418887247626247150_shared/overview) | [View Solution] |
-| Internet of Things 201                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0129563012988354561318_shared/overview) | [View Solution] |
+| The Arduino Platform and C Programming                        | [Course Link](https://www.coursera.org/learn/arduino-platform) | [View Solution] |
+| The Raspberry Pi Platform and Python Programming for the Raspberry Pi                  | [Course Link](https://www.coursera.org/learn/raspberry-pi-platform) | [View Solution] |
 
 <div align="center">
   
@@ -56,7 +55,7 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
 | Wireless Evolution and 4G LTE Overview                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0126690195044843520_shared/overview) | [View Solution] |
-| Artificial Intelligence                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384246969322700815386_shared/overview) | [View Solution] |
+| C on Linux                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384246969322700815386_shared/overview) | [View Solution] |
 
 ### 🔸 Sixth Semester
 
@@ -64,7 +63,7 @@
 |------------------------------------------------  |-------------|---------------|
 | Data Structures and Algorithms                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384203240484864010470_shared/overview) | [View Solution] |
 | Wireless 5G Overview                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130807757242204161122_shared/overview) | [View Solution] |
-| Introduction to ML and AI                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0137398721079705605/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20ML%20and%20AI) |
+| Introduction to AI & ML                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01424935121484185673/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20AI%20%26%20ML) |
 
 <div align="center">
   
