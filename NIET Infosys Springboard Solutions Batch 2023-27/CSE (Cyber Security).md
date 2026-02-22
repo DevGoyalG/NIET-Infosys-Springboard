@@ -57,7 +57,7 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
 | AWS Certified Security Specialty 2024 [NEW]                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157685733605376143/overview) | [View Solution] |
-| Introduction to AI & ML                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01424935121484185673/overview) | [View Solution] |
+| Introduction to AI & ML                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01424935121484185673/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20AI%20%26%20ML) |
 
 ### 🔸 Sixth Semester
 
