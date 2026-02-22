@@ -34,14 +34,14 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Introduction to Python                     | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012664745277808640481_shared/overview) | [View Solution] |
+| Introduction to Python                     | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012664745277808640481_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20Python) |
 | Cyber Security Foundation                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130752807862845445_shared/overview) | [View Solution] |
 
 ### 🔸 Fourth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Introduction to AI                           | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157703739318272212/overview) | [View Solution] |
+| Introduction to AI and ChatGPT                           | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157703739318272212/overview) | [View Solution] |
 | Finite Elements Analysis                   | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01257062840308531232_shared/overview) | [View Solution] |
 
 <div align="center">
