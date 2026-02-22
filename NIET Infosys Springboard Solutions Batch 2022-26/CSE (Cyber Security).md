@@ -14,15 +14,15 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Next Gen Technologies                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01255932461115801653_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Next%20Gen%20Technologies) |
-| Programming Fundamentals using Python - Science Graduates - Foundation Program                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127412552654028801068_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Science%20Graduates%20-%20Foundation%20Program) |
+| Python Basics                 | [Course Link](https://www.coursera.org/learn/python-basics) | [View Solution] |
+| What is Data Science?                         | [Course Link](https://www.coursera.org/learn/what-is-datascience) | [View Solution] |
 
 ### 🔸 Second Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Programming In C                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012996602861608960271_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20in%20C) |
-| Microsoft Office 2016                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384339925970944038247_shared/overview) | [View Solution] |
+| Human Centered Design for Inclusive Innovation                        | [Course Link](https://www.coursera.org/learn/gender-analytics-human-centered-design) | [View Solution] |
+| Python for Data Science, AI & Development                 | [Course Link](https://www.coursera.org/learn/python-for-applied-data-science-ai) | [View Solution] ||
 
 <div align="center">
   
@@ -34,18 +34,15 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Data Structures and Algorithms using Python - Part 1                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409722749255681063_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Data%20Structures%20and%20Algorithms%20using%20Python%20-%20Part%201) |
-| Object Oriented Programming Using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409722749255681063_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Object%20Oriented%20Programming%20using%20Python) |
-| Comprehensive Training on Unix and Linux OS Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384325804798771234443_shared/overview) | [View Solution] |
+| Hands-on Introduction to Linux Commands and Shell Scripting                        | [Course Link](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting) | [View Solution] |
+| Exploiting and Securing Vulnerablities in Java Applications                | [Course Link](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | [View Solution] ||
 
 ### 🔸 Fourth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Programming Using Java                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012880464547618816347_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20using%20Java) |
-| Programming Fundamentals Using Python - Part 2                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012734003600908288382_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Part%202) |
-| Cyber Security and Hacker Tactics Awareness Training                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384346510157414439928_shared/overview) | [View Solution] |
-| Ethical Hacker v11                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01381725418107699255/overview) | [View Solution] |
+| Ethical Hacking Essentials (EHE)                        | [Course Link](https://www.coursera.org/learn/ethical-hacking-essentials-ehe) | [View Solution] |
+| Identifying Security Vulnerabilities in C/C++ Programming                  | [Course Link](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | [View Solution] ||
 
 <div align="center">
   
@@ -66,10 +63,8 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
-| Microsoft Office 2016                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384339925970944038247_shared/overview) | [View Solution] |
-| Ethical Hacker v11                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01381725418107699255/overview) | [View Solution] |
-
-<!--
+| Exploratory Data Analysis                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012666909428129792728_shared/overview) | [View Solution] |
+| Cyber Security and Applied Ethical Hacking                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384318264289689632577_shared/overview) | [View Solution] |
 
 <div align="center">
   
@@ -81,14 +76,12 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Natural Language Processing using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125953625493258244_shared/overview) | [View Solution] |
-| Spring Boot and Angular-React Stack -DevOps Tools and Capstone Project                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01269872058301644883_shared/overview) | [View Solution] |
+| AWS Certified Security Specialty 2024 [NEW]                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157685733605376143/overview) | [View Solution] |
+| Introduction to AI & ML                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01424935121484185673/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20AI%20%26%20ML) |
 
 ### 🔸 Eighth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Artificial Intelligence                         | [Course Link] | [View Solution] |
-| Java Programming Fundamentals                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution] |
-
--->
+| Comprehensive Training on Unix and Linux OS Fundamentals                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384325804798771234443_shared/overview) | [View Solution] |
+| Information Security A-Z: Cyber Security Bootcamp                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157699878830080202/overview) | [View Solution] |
