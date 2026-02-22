@@ -14,7 +14,7 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| JavaScript                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_18109698366332810000_shared/overview) | [View Solution] |
+| JavaScript                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_18109698366332810000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/JavaScript) |
 | Next Gen Technologies                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01255932461115801653_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Next%20Gen%20Technologies) |
 
 ### 🔸 Second Semester
