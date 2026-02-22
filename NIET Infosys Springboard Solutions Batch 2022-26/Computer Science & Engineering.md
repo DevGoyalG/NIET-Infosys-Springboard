@@ -66,7 +66,7 @@
 |------------------------------------------------  |-------------|---------------|
 | AI-900: Microsoft Azure AI Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013099438289641472409_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/Artificial%20Intelligence/AI-900%20-%20Self%20Assessment%20-%20DevGoyalG.pdf) |
 | Explore Machine Learning using R                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_10010825806395720000_shared/overview) | [View Solution] |
-| JavaScript                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_18109698366332810000_shared/overview) | [View Solution] |
+| JavaScript                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_18109698366332810000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/JavaScript) |
 | Kotlin Programming                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125699203121725449_shared/overview) | [View Solution] |
 | Network Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012683751296065536354_shared/overview) | [View Solution] |
 
@@ -90,7 +90,7 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Angular                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_20858515543254600000_shared/overview) | [View Solution] |
+| Angular                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_20858515543254600000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/blob/main/Angular%20Developer%20Program/Angular%20-%20Assessment%20-%20DevGoyalG.pdf) |
 | Azure Devops                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012795695101108224220_shared/overview) | [View Solution] |
 | Decision Trees using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130828974237040647635_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20ML%20and%20AI/Decision%20Trees%20using%20Python) |
 | Fundamentals of Routing                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_23055589336784556000_shared/overview) | [View Solution] |
