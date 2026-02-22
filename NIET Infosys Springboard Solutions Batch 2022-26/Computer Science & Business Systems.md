@@ -62,7 +62,7 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
 | Data Analytics                          | [Course Link] | [View Solution] |
-| JavaScript                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_18109698366332810000_shared/overview) | [View Solution] |
+| JavaScript                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_18109698366332810000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/JavaScript) |
 | Network Fundamentals                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012683751296065536354_shared/overview) | [View Solution] |
 
 <div align="center">
