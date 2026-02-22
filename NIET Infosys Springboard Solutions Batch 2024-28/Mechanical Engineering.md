@@ -43,7 +43,7 @@
 |------------------------------------------------|-------------|---------------|
 | CATIA V5 - Computer Aided Design (CAD)                    | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012673230995005440538_shared/overview) | [View Solution] |
 | Finite Elements Analysis                   | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01257062840308531232_shared/overview) | [View Solution] |
-| Introduction to AI                           | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157703739318272212/overview) | [View Solution] |
+| Introduction to AI and ChatGPT                           | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157703739318272212/overview) | [View Solution] |
 
 <!--
 
