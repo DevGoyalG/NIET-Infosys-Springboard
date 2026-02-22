@@ -14,15 +14,15 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Next Gen Technologies                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01255932461115801653_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Next%20Gen%20Technologies) |
-| Programming Fundamentals using Python - Science Graduates - Foundation Program                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127412552654028801068_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20Fundamentals%20using%20Python%20-%20Science%20Graduates%20-%20Foundation%20Program) |
+| Digital Manufacturing & Design                         | [Course Link](https://www.coursera.org/learn/digital-manufacturing-design) | [View Solution] |
+| Python Basics                 | [Course Link](https://www.coursera.org/learn/python-basics) | [View Solution] |
 
 ### 🔸 Second Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Programming In C                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012996602861608960271_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Programming%20in%20C) |
-| Microsoft Office 2016                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384339925970944038247_shared/overview) | [View Solution] |
+| 3D Printing Applications                        | [Course Link](https://www.coursera.org/learn/3d-printing-applications) | [View Solution] |
+| Digital Thread: Components                 | [Course Link](https://www.coursera.org/learn/digital-thread-components) | [View Solution] |
 
 <div align="center">
   
@@ -34,15 +34,15 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Introduction to Python                     | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012664745277808640481_shared/overview) | [View Solution] |
-| Cyber Security Foundation                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130752807862845445_shared/overview) | [View Solution] |
+| Digital Thread: Implementation                     | [Course Link](https://www.coursera.org/learn/digital-thread-implementation) | [View Solution] |
+| Introduction to batterymanagement systems                 | [Course Link](https://www.coursera.org/learn/battery-management-systems) | [View Solution] |
 
 ### 🔸 Fourth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Introduction to AI                           | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157703739318272212/overview) | [View Solution] |
-| Finite Elements Analysis                   | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01257062840308531232_shared/overview) | [View Solution] |
+| Advanced Manufacturing Process Analysis                           | [Course Link](https://www.coursera.org/learn/advanced-manufacturing-process-analysis) | [View Solution] |
+| Intelligent Machining                   | [Course Link](https://www.coursera.org/learn/intelligent-machining) | [View Solution] |
 
 <div align="center">
   
@@ -74,12 +74,12 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Internet of Things                          | [Course Link] | [View Solution] |
 | Data Structures and Algorithms using Python - Part 2 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127667384693882883448_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Data%20Structures%20and%20Algorithms%20using%20Python%20-%20Part%202) |
+| Internet of Things                          | [Course Link] | [View Solution] |
 
 ### 🔸 Eighth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| TQM Applicability in Industries                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138418372728258565461_shared/overview) | [View Solution] |
 | Project Management Professional | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138419293806182408144_shared/overview) | [View Solution] |
+| TQM Applicability in Industries                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138418372728258565461_shared/overview) | [View Solution] |
