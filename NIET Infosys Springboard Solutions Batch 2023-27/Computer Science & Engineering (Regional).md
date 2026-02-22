@@ -63,7 +63,7 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
 | Data Analysis with Pandas and Python                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944106610360321793_shared/overview) | [View Solution] |
-| Java Programming Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution] |
+| Java Programming Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Java%20Programming%20Fundamentals) |
 | Network Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012683751296065536354_shared/overview) | [View Solution] |
 | TechA Java Developer Certification                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013852372966899712414_shared/overview) | [View Solution] |
 
