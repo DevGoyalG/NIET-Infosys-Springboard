@@ -82,5 +82,5 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Angular Developer Program                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01252530390265856018_shared/overview) | [View Solution] |
+| Angular Developer Program                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01252530390265856018_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Angular%20Developer%20Program) |
 | Natural Laungage Processing for developers                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130849458468126729567_shared/overview) | [View Solution] |
