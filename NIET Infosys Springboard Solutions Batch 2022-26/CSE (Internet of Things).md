@@ -62,7 +62,7 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
 | IoT Raspberry Pi with Projects                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384789198063206456721_shared/overview) | [View Solution] |
-| Java Programming Fundamentals| [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution] |
+| Java Programming Fundamentals| [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Java%20Programming%20Fundamentals) |
 
 <div align="center">
   
