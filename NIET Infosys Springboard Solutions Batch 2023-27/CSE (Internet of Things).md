@@ -62,7 +62,7 @@
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------  |-------------|---------------|
 | Internet of Things Foundation Certification                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01371229380700569689_shared/overview) | [View Solution] |
-| Java Programming Fundamentals| [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution] |
+| Java Programming Fundamentals| [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Java%20Programming%20Fundamentals) |
 | Smart Device & Mobile Emerging Technologies| [Course Link] | [View Solution] |
 
 <!--
