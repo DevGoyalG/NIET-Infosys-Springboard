@@ -24,7 +24,7 @@
 
 <H1 align="center"> 🔷 NIET's yearwise and branchwise Infosys Springboard Solutions 🔷 </H1>
 
-| Branch Name                                               | Access Link                                           |
+| Batch                                               | Access Link                                           |
 |-----------------------------------------------------------|-------------------------------------------------------|
 | BATCH 2022-26        | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions%20Batch%202022-26) |
 | BATCH 2023-27        | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions%20Batch%202023-27) |
