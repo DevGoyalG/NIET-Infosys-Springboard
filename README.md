@@ -3,10 +3,10 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/DevGoyalG)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/DevGoyalG?tab=repositories)
 
-<h1 align="center"> 🚀 NIET INFOSYS SPRINGBOARD ANSWERS 🚀 </h1>
+<h1 align="center"> 🚀 NIET INFOSYS SPRINGBOARD SOLUTIONS 🚀 </h1>
 
 <p align="center">
-  <b>A curated collection of Infosys Springboard solutions for NIET students,<br>organized year-wise and branch-wise for easy access and effective learning.</b>
+  <b>A curated collection of Infosys Springboard solutions for NIET students,<br>organized batch-wise, branch-wise and year-wise for easy access and effective learning.</b>
 </p>
 
 
@@ -17,19 +17,44 @@
 </p>
 
 <p align="center">
-  <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Segoe+script&duration=1000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Goal+%3A+20+%E2%98%85" alt="Typing SVG" /></a> </p>
+  <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Segoe+script&duration=1000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Goal+%3A+50+%E2%98%85" alt="Typing SVG" /></a> </p>
 </p>
 
 ---
 
-<H1 align="center"> 🔷 NIET's yearwise and branchwise Infosys Springboard Solutions 🔷 </H1>
+<h1 align="center">🔷 Batchwise (Branchwise + Yearwise) 🔷</h1>
 
-| Batch                                               | Access Link                                           |
-|-----------------------------------------------------------|-------------------------------------------------------|
-| BATCH 2022-26        | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions%20Batch%202022-26) |
-| BATCH 2023-27        | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions%20Batch%202023-27) |
-| BATCH 2024-28        | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions%20Batch%202024-28) |
-| BATCH 2025-29        | [Click Here](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions%20Batch%202025-29) |
+<div align="center">
+
+<table>
+<tr>
+<th>Batch</th>
+<th>Access Link</th>
+</tr>
+
+<tr>
+<td>2022-26</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions%20Batch%202022-26">Click Here</a></td>
+</tr>
+
+<tr>
+<td>2023-27</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions%20Batch%202023-27">Click Here</a></td>
+</tr>
+
+<tr>
+<td>2024-28</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions%20Batch%202024-28">Click Here</a></td>
+</tr>
+
+<tr>
+<td>2025-29</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/NIET%20Infosys%20Springboard%20Solutions%20Batch%202025-29">Click Here</a></td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
@@ -38,6 +63,15 @@
 <p align="center">
   <b>Catch all study material branch-wise here:</b><br><br>
   👉 <a href="https://github.com/DevGoyalG/NIET-Study-Material" target="_blank"><b>Click Here for Study Material</b></a> 👈
+</p>
+
+---
+
+<h2 align="center">🎓 Looking for NIET On-Campus Placement Tracker (Batch 2026) ? 🎓</h2>
+
+<p align="center">
+  <b>Track all on-campus placements for Batch 2026 here:</b><br><br>
+  👉 <a href="https://github.com/DevGoyalG/NIET-Placement" target="_blank"><b>Click Here for Placement Tracker</b></a> 👈
 </p>
 
 ---
