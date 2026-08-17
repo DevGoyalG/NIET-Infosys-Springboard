@@ -65,8 +65,6 @@
 | Building Machine Learning Systems with TensorFlow                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01330146320172646421028_shared/overview) | [View Solution] |
 | Natural Language Processing Foundation Certification                           | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013718748087492608219_shared/overview) | [View Solution] |
 
-<!--
-
 <div align="center">
   
   ## 🔷 Fourth Year
@@ -90,5 +88,3 @@
 | Introduction to Apache Spark Streaming                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125409262717829121040_shared/overview) | [View Solution] |
 | Data Analysis using Pig                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0126223364472750082731_shared/overview) | [View Solution] |
 | Microsoft Power BI                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138420035052011529489_shared/overview) | [View Solution] |
-
--->
