@@ -66,8 +66,6 @@
 | Java Programming Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Java%20Programming%20Fundamentals) |
 | Network Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012683751296065536354_shared/overview) | [View Solution] |
 
-<!--
-
 <div align="center">
   
   ## 🔷 Fourth Year
@@ -78,16 +76,13 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Deep Learning for Developers                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01274814254931148859_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Deep%20Learning%20for%20Developers) |
 | Continuous Integration and Delivery - DevOps                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013538989171924992269_shared/overview) | [View Solution] |
+| Deep Learning for Developers                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01274814254931148859_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Deep%20Learning%20for%20Developers) |
 | Spring Boot and Angular-React Stack -DevOps Tools and Capstone Project                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01269872058301644883_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Spring%20Boot%20and%20Angular-React%20Stack%20-DevOps%20Tools%20and%20Capstone%20Project) |
 
 ### 🔸 Eighth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Programming Fundamentals using Python - Science
-Graduates - Foundation Program                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127412552654028801068_shared/overview) | [View Solution] |
-| Artificial Intelligence                          | [Course Link] | [View Solution] |
-
--->
+| Fundamentals of Routing                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_23055589336784556000_shared/overview) | [View Solution] |
+| Mobile App Development using Flutter                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013194789269504000417_shared/overview) | [View Solution] |
