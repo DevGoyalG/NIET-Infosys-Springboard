@@ -66,8 +66,6 @@
 | Cyber Security and Applied Ethical Hacking                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384318264289689632577_shared/overview) | [View Solution] |
 | ReactJS                                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_10648877150323546000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/ReactJS) |
 
-<!--
-
 <div align="center">
   
   ## 🔷 Fourth Year
@@ -78,14 +76,14 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Natural Language Processing using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125953625493258244_shared/overview) | [View Solution] |
-| Spring Boot and Angular-React Stack -DevOps Tools and Capstone Project                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01269872058301644883_shared/overview) | [View Solution] |
+| Microsoft Office 2016                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01384339925970944038247_shared/overview) | [View Solution] |
+| Network Fundamentals                  | [Course Link] | [View Solution](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012683751296065536354_shared/overview) |
+| Cyber Security Essential                   | [Course Link] | [View Solution] |
 
 ### 🔸 Eighth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Artificial Intelligence                         | [Course Link] | [View Solution] |
-| Java Programming Fundamentals                  | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview) | [View Solution] |
-
--->
+| Information Security A-Z: Cyber Security Bootcamp                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157699878830080202/overview) | [View Solution] |
+| Exploratory Data Analysis                   | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012666909428129792728_shared/overview) | [View Solution] |
+|  Certificate program in Prompt Engineering and ChatGPT                         | [Course Link] | [View Solution] |
