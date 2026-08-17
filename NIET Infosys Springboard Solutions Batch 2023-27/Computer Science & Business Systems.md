@@ -66,8 +66,6 @@
 | Introduction to Networking and Cloud Computing                                          | [Course Link] | [View Solution] |
 | ReactJS                                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_10648877150323546000_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/ReactJS) |
 
-<!--
-
 <div align="center">
   
   ## 🔷 Fourth Year
@@ -78,15 +76,14 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Natural Language Processing using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0125953625493258244_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Natural%20Language%20Processing%20using%20Python) |
-| Spring Boot and Angular-React Stack -DevOps Tools and Capstone Project                 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01269872058301644883_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Spring%20Boot%20and%20Angular-React%20Stack%20-DevOps%20Tools%20and%20Capstone%20Project) |
+| The Art of Exploring and Analyzing the Data                           | [Course Link] | [View Solution] |
+| Data Engineering using AWS Data Analytics                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157693046718464160/overview) | [View Solution] |
+| Certificate program in Prompt Engineering and ChatGPT                         | [Course Link] | [View Solution] |
 
 ### 🔸 Eighth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Artificial Intelligence                         | [Course Link] | [View Solution] |
-| Oracle E-Business Suite Functional Foundation                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013102764115615744811_shared/overview) | [View Solution] |
-| Internet of Things 201                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0129563012988354561318_shared/overview) | [View Solution] |
-
--->
+| Data Science : Complete Data Science & Machine Learning                            | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01454951287305011245613/overview) | [View Solution] |
+| Snowflake Hands-on Essentials Series Part 2 - Collaboration, Marketplace and Cost Estimation                          | [Course Link] | [View Solution] |
+| Power BI Essentials: Power BI Training and Exam Prep                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014157713553817600241/overview) | [View Solution] |
