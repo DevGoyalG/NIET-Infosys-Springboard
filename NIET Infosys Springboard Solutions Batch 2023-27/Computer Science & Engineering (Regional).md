@@ -67,8 +67,6 @@
 | Network Fundamentals                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012683751296065536354_shared/overview) | [View Solution] |
 | TechA Java Developer Certification                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013852372966899712414_shared/overview) | [View Solution] |
 
-<!--
-
 <div align="center">
   
   ## 🔷 Fourth Year
@@ -82,17 +80,15 @@
 | Deep Learning for Developers                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01274814254931148859_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Deep%20Learning%20for%20Developers) |
 | Spring Boot and Angular-React Stack -DevOps Tools and Capstone Project                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01269872058301644883_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Spring%20Boot%20and%20Angular-React%20Stack%20-DevOps%20Tools%20and%20Capstone%20Project) |
 | Continuous Integration and Delivery - DevOps                          | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013538989171924992269_shared/overview) | [View Solution] |
-| Scrum In Practice                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012673833039093760592_shared/overview) | [View Solution] |
-| Data Analytics                         | [Course Link] | [View Solution] |
+| Certificate Program in Deep Learning/NLP/Artificial Intelligence                          | [Course Link] | [View Solution] |
+| TechA Computer Vision Certificate                         | [Course Link] | [View Solution] |
 
 ### 🔸 Eighth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Fundamentals of Routing                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_23055589336784556000_shared/overview) | [View Solution] |
-| Angular Developer Program                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01252530390265856018_shared/overview) | [View Solution] |
+| Building Apps Powered by Generative AI                         | [Course Link] | [View Solution] |
 | Mobile App Development using Flutter                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013194789269504000417_shared/overview) | [View Solution] |
-| Azure Devops                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012795695101108224220_shared/overview) | [View Solution] |
+| Angular                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_20858515543254600000_shared/overview) | [View Solution] |
 | Decision Trees using Python                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130828974237040647635_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Introduction%20to%20ML%20and%20AI/Decision%20Trees%20using%20Python) |
-
--->
+| Azure Devops                         | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012795695101108224220_shared/overview) | [View Solution] |
