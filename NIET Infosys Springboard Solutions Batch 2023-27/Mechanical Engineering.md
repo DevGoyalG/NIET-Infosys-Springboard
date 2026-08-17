@@ -67,8 +67,6 @@
 | Sustainable Supply Chains 2: Operational Strategies           | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014263567317090304237/overview) | [View Solution] |
 | Sustainable Supply Chains 3: Procurement Strategies           | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_014263567224381440238/overview) | [View Solution] |
 
-<!--
-
 <div align="center">
   
   ## 🔷 Fourth Year
@@ -79,14 +77,12 @@
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| Internet of Things                          | [Course Link] | [View Solution] |
 | Data Structures and Algorithms using Python - Part 2 | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127667384693882883448_shared/overview) | [View Solution](https://github.com/DevGoyalG/NIET-Infosys-Springboard/tree/main/Data%20Structures%20and%20Algorithms%20using%20Python%20-%20Part%202) |
+| Internet of Things                          | [Course Link] | [View Solution] |
 
 ### 🔸 Eighth Semester
 
 | Course Name                                      | Course Link | Solution Link |
 |------------------------------------------------|-------------|---------------|
-| TQM Applicability in Industries                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138418372728258565461_shared/overview) | [View Solution] |
 | Project Management Professional | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138419293806182408144_shared/overview) | [View Solution] |
-
--->
+| TQM Applicability in Industries                        | [Course Link](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138418372728258565461_shared/overview) | [View Solution] |
